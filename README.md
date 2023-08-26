@@ -2,8 +2,7 @@
 
 # Question
 
-Lab 02 Design and Implement Business Logic
-IT618 Enterprise Computing, Autumn’2023; pm_jat @ daiict
+
 The objective of this lab is to design and implement Business Logic for a given small
 application.
 Consider creating visitor tracking application for a residential society.
